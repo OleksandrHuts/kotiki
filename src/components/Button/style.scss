@@ -1,0 +1,23 @@
+.btn {
+    border: 1px solid transparent;
+    outline: none;
+    display: inline-block;
+    width: 100%;
+    max-width: 150px;
+    padding: 10px 15px;
+    border-radius: 15px;
+    color: #fff;
+    background-color: lightseagreen;
+    text-transform: uppercase;
+
+    &:hover {
+        background-color: transparent;
+        color: lightseagreen;
+        border-color: lightseagreen;
+    }
+}
+
+.icon {
+    width: 30px;
+    display: inline-block;
+}
