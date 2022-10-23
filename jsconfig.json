@@ -2,7 +2,7 @@
   "compilerOptions": {
     "target": "es5",
     "module": "esnext",
-    "baseUrl": "./",
+    "baseUrl": "https://kotiki-123.herokuapp.com/",
     "moduleResolution": "node",
     "paths": {
       "@/*": [
